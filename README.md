@@ -1,2 +1,13 @@
 # Data-Collector
-A malware that closes disturbing tools, and gets screenshots, keylogs, processes, IP, windows version, windows username, and much more data.
+A malware that collects:
+- Keylogging
+- Screenshots
+- Running Processes
+- PC's IP
+- Network Communication
+- Windows Username, Groups and OS details
+In addition, the program:
+- Copies itself to the computer 
+- Adds itself to the AutoRuns
+- Closes disturbing tools
+- Changes the background of the PC
